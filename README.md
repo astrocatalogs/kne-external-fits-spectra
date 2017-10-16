@@ -1,1 +1,1 @@
-# kne-external-fits-spectra
+# kne-external-spectra-private
